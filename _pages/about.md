@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,8 +10,8 @@ redirect_from:
 Currently working as Senior Software Engineer at Panasonic Air-Conditioner RnD and looking for career switch in Data Science related field.
 
 Completed and earned:
-- Google Advanced Data Analytics Professional Certifiacte
-- Google Data Analytics Professional Certifiacte
+- Google Advanced Data Analytics Professional Certificate
+- Google Data Analytics Professional Certificate
 - Google Analytics Certification
 
 Please take a look at my github profile for portfolio.
